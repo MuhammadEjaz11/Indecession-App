@@ -1,0 +1,32 @@
+.widget{
+    background: $blue;
+    padding: $s-size 0;
+    text-align: center;
+    padding: $s-size;
+    word-break: break-all;
+    
+}
+.widget-sec{
+    display: flex;
+    justify-content: space-between;
+    margin: $s-size;
+    color: white;
+    font-weight: 200;
+    font-size: 1.5rem;
+}
+.widget-header{
+    background: $blue;
+    display: flex;
+    justify-content: space-between;
+    padding: $s-size;
+
+    h3{
+        color: rgb(173, 173, 173);
+    }
+}
+.widget-p{
+    width: 50rem;
+
+    display: flex;
+    justify-content: flex-start;
+}

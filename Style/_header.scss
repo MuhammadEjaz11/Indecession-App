@@ -1,0 +1,11 @@
+.header{
+    background-color: $main-color;
+    padding: $s-size 0;
+    margin-bottom: $l-size;
+}
+.header__title{
+    color: white;
+}
+.header__subtitle{
+    color: $second-color;
+}

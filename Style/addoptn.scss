@@ -1,0 +1,16 @@
+.addoptn{
+    background: $dark-blue;
+    padding: $s-size;
+    
+
+}
+.addoptn-form{
+    display: flex;
+    justify-content: space-between;
+}
+.addoptn-input{
+    background: rgb(212, 211, 211);
+    border: none;
+    color: $dark-blue;
+    width: 80%;
+}
